@@ -1,3 +1,5 @@
+# AWS Docs Link - https://1drv.ms/w/s!AnlLAeayI411hAvirlyYJ6hKi6uX?e=IIBg3D 
+
 I'd be glad to explain AWS Batch and its key differences from AWS Lambda for an entry-level software engineer:
 
 **AWS Batch: Running Batch Jobs at Scale**
